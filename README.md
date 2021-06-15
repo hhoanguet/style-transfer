@@ -9,7 +9,7 @@ Style and content features are extracted by using a pretrained VGG network.
   <img width = "300" src="images/style/blossom.jpg">
 </p>
 
-<img align="left" width = "400" src="images/content/scene.jpg">
-<img align="right" width = "400" src="images/results/transfer_2.png">
+<img align="left" width = "300" src="images/content/scene.jpg">
+<img align="right" width = "300" src="images/results/transfer_2.png">
 
 
